@@ -128,10 +128,10 @@ export default Exercise;
  
   ![Output The Code](src/assets/OutPut.png)
   
-  <!-- ## Output 2 -->
+  ## Output 2
   
   
-  <!-- ![Output The Code](src/assets/OutPut-02.png) -->
+  ![Output The Code](src/assets/OutPut-2.png)
 
  
  
